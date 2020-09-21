@@ -1,5 +1,5 @@
 
-<!-- Replaceds http://familytrees.net/thorn-hedge-farm -->
+<!-- Replaceds http://web.familytrees.net/thorn-hedge-farm -->
 
 <img src="img/farm/Farmhouse-of-Heine-01.jpg">
 <img src="img/farm/Farmhouse-of-Heine-02.jpg">
@@ -19,7 +19,7 @@ Anne Hains and her father Johan Hain provide the origin of the Heins name that l
 
 <div class="caption" style="float:right; margin:0 0 30px 30px; max-width:330px">
 <a href="img/farm/willem-and-elisabeth.jpg"><img src="img/farm/willem-and-elisabeth.jpg" style="width:100%"></a><br>
-<a href="http://familytrees.net/info/81730">Willem Heijns</a> (b. 1853, d. 1936) and his daughter Elisabeth Heijns (b. 1889, d. 1921). Elisabeth was married to Adrian Ramp.
+<a href="http://web.familytrees.net/info/81730">Willem Heijns</a> (b. 1853, d. 1936) and his daughter Elisabeth Heijns (b. 1889, d. 1921). Elisabeth was married to Adrian Ramp.
 </div>
 
 The following research extends a photocopy of the hand-drawn genealogy chart sent from Leen Ramp, of Boskoop, Netherlands to his cousin William Heyns in Grand Rapids, Michigan. The chart spans from 1701 to 1968 and contains about 200 relatives with drawings (tracings) of about 35 male family members. There is one female member - Johanna (Heijns) Vander Wilk (d. Aug 21, 1971) - who either created or added on to the chart. (The hand-drawn chart may incorrectly state that Anna Buelter was Peter's brother Johan's widow.)  
@@ -210,7 +210,7 @@ C. <!-- was 7 -->Family Fact Sheet and Hand-Drawn Chart
 8. Pieter b. 17 Mar 1782 (twin)1  
 9. Neeltje b. 17 Mar 1782 (twin)1  
 10. Margrita b. 9 Jan 1785 (survived childhood)1  
-11. [Willem Wijnant](http://familytrees.net/info/905) b. 19 Mar 1786 (survived childhood)1  
+11. [Willem Wijnant](http://web.familytrees.net/info/905) b. 19 Mar 1786 (survived childhood)1  
 12. Neeltje b. 17 Jun 17871  
 13. Pietertje b. 24 Aug. 17881  
 14. Pieter b. 6 Dec. 17891  
@@ -231,6 +231,6 @@ The family had quite a few infant deaths, quite common in those days. According 
 The hand-drawn chart also notes that the family with 2 children moved to Ter Aar May 15, 1804. Under Willem Wynant Heyns there is a note that he decided to change the name "Heins" to "Heyns"  
 <br>
 
-[Continue to Willem Wijnant](http://familytrees.net/info/905)
+[Continue to Willem Wijnant](http://web.familytrees.net/info/905)
 
 

@@ -1,9 +1,7 @@
 
 <!-- Replaceds http://web.familytrees.net/thorn-hedge-farm -->
 
-<img src="img/farm/Farmhouse-of-Heine-01.jpg">
-<img src="img/farm/Farmhouse-of-Heine-02.jpg">
-<img src="img/farm/Farmhouse-of-Heine-03.jpg">
+<img src="img/farm/Farmhouse-of-Heine-01.jpg"> <img src="img/farm/Farmhouse-of-Heine-02.jpg"> <img src="img/farm/Farmhouse-of-Heine-03.jpg">
 <br>
 Farmhouse built at the Hain Farm in the early 1700's. In 1863 Sophie Marie Dorothee Heine (* 2. Febr. 1820 in Wohlenhausen, + 18. Febr. 1879 in Lemke) and her husband Christian Kanning purchased the family farmhouse. As of 2005, the great-great-granddaughter of Sophie lives in the house.  
 

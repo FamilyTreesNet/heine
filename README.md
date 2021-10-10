@@ -229,6 +229,6 @@ The family had quite a few infant deaths, quite common in those days. According 
 The hand-drawn chart also notes that the family with 2 children moved to Ter Aar May 15, 1804. Under Willem Wynant Heyns there is a note that he decided to change the name "Heins" to "Heyns"  
 <br>
 
-[Continue to Willem Wijnant](http://web.familytrees.net/info/905)
+[Continue to Willem Wijnant](../heijns)
 
 

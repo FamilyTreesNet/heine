@@ -3,17 +3,17 @@
 
 <img src="img/farm/Farmhouse-of-Heine-01.jpg"> <img src="img/farm/Farmhouse-of-Heine-02.jpg"> <img src="img/farm/Farmhouse-of-Heine-03.jpg">
 <br>
-Farmhouse built at the Hain Farm in the early 1700's. In 1863 Sophie Marie Dorothee Heine (* 2. Febr. 1820 in Wohlenhausen, + 18. Febr. 1879 in Lemke) and her husband Christian Kanning purchased the family farmhouse. As of 2005, the great-great-granddaughter of Sophie lives in the house.  
+Farmhouse built at the Hajn Farm in the early 1700's. In 1863 Sophie Marie Dorothee Heine (* 2. Febr. 1820 in Wohlenhausen, + 18. Febr. 1879 in Lemke) and her husband Christian Kanning purchased the family farmhouse. As of 2005, the great-great-granddaughter of Sophie lives in the house.  
 
 
 
-# The Old Farmhouse of Heine (Heynen, Hain, Hajne, Heins)
+# The Old Farmhouse of Heine (Heynen, Hajn, Hajne, Heins)
 
 ### In Lemke very near Wohlenhausen, Germany
 
 According to descendants of the Heins family living in Lemke, the name Hein means thorn-hedge.  
 
-Anne Hains and her father Johan Hain provide the origin of the Heins name that later transitioned to Heijns (in the Netherlands) and then Heyns (in the US and South Africa).
+Anne Hains and her father Johan Hajn provide the origin of the Heins name that later transitioned to Heijns (in the Netherlands) and then Heyns (in the US and South Africa).
 
 <div class="caption" style="float:right; margin:0 0 30px 30px; max-width:330px">
 <a href="img/farm/willem-and-elisabeth.jpg"><img src="img/farm/willem-and-elisabeth.jpg" style="width:100%"></a><br>
@@ -24,7 +24,7 @@ The following research extends a photocopy of the hand-drawn genealogy chart sen
 
 William Heyns writes: "Leen Ramp, son of Adrian Ramp: Adrian's first wife Elisabeth (Heijns) Ramp (b. Moerkapelle Dec 12, 1889, d. Jan 27, 1921) passed away before Leen was born to Adrian's second wife Coba, Leen's mother. Coba was a fine mother to all the Ramp children and I used to correspond with her about the whole family while she was living. Leen was also close to his half-brothers and sisters. Half-brother Wim Ramp and wife Jans (Goedhart-Ramp) inherited the Family chart from Aunt Johanna (Heijns) Vander Wilk (d. Aug 21, 1971), and on one occasion mentioned it to Leen after I had written to him about family record search. That's when Leen sent us the photocopy of the chart. All very providential and we could not have developed the website without it. Leen is now quite ill and my latest contacts have been with Wim Koster who can not write English and we must depend on his daughter to communicate." (Leen Ramp died April 23, 2001. We have stayed in contact with Jos Ramp and [Ellen Verhoeven](https://www.facebook.com/ellen.verhoeven.75).)  
 
-Word Docs prepared by geneologist Jan Th. Kaufmann in Germany in 2002:  
+Documents prepared by geneologist Jan Th. Kaufmann in Germany in 2002:  
 
 [Heyns (Heins) Ancestors](../heyns/hain-farm.htm)  
 [Parenteel Van Peter Freiershaus](20070204_ParenteelVanPeterFreiershaus.doc)  
@@ -76,7 +76,7 @@ According to the present German phonebook the surname Freuershaus (also spelled 
 Reviewing the data I sent you I think it is not very likely that Peter Freuershaus (#8) was a son of Gerd Stueve in Hoya or Buecken (#16), but more likely that he was a brother of one of them (Peter's father would have been born around 1590 and perhaps was already dead in the 1660's). Heinrich Meyerholz did not check all early tax lists that are available at the State Archive in Hannover. So perhaps the lists of 1566, 1604-1612, 1628 and 1630 could give some more information on the Hein, Freuershaus and Stueve families. However, some of these early lists are not complete (e. g. the list of 1616 does not include the villages of Wohlenhausen and Holte). So it is doubtful whether it will be possible to find any further information beyond Peter Freuershaus and Johann Hein.
 <hr><br>
 
-From the Buecken records I found some more information about the Toellner family. They had come to Calle in 1707 when Borcherdt Toellner from Hoyerhagen got married to Maria Alheidt Harde from Calle. The couple had baptized three daughters in Buecken between 1710 and 1717 and the eldest one (baptized as Margretha Angenese) should be identical with your ancestor Anna Margaretha Toellner who got married to Johan Peter Heins in 1731. In the baptismal record of her youngest daughter in 1752 Anna Margaretha was called &quot;Harde&quot; and her husband died as Johan Peter Heins called &quot;Haare&quot;. So Harde or Haare obviously was the name of the farm in Calle that was owned by Johan Peter Heins and that had previously be owned by his father-in-law Borcherdt Toellner and by the family of Borcherdt's wife Maria Alheid Harde.  
+From the Buecken records I found some more information about the Toellner family. They had come to Calle in 1707 when Borcherdt Toellner from Hoyerhagen got married to Maria Alheidt Harde from Calle. The couple had baptized three daughters in Buecken between 1710 and 1717 and the eldest one (baptized as Margretha Angenese) should be identical with your ancestor Anna Margaretha Toellner who got married to Johan Peter Heins in 1731. In the baptismal record of her youngest daughter in 1752 Anna Margaretha was called &quot;Harde&quot; and her husband died as Johan Peter Heins called &quot;Haare&quot;. So Harde or Haare obviously was the name of the farm in Calle that was owned by Johan Peter Heins and that had previously been owned by his father-in-law Borcherdt Toellner and by the family of Borcherdt's wife Maria Alheid Harde.  
 
 The book of Heinrich Meyerholz shows that the Toellner family had lived in Hoyerhagen already since 1530.  
 
@@ -208,7 +208,7 @@ C. <!-- was 7 -->Family Fact Sheet and Hand-Drawn Chart
 8. Pieter b. 17 Mar 1782 (twin)1  
 9. Neeltje b. 17 Mar 1782 (twin)1  
 10. Margrita b. 9 Jan 1785 (survived childhood)1  
-11. [Willem Wijnant](http://web.familytrees.net/info/905) b. 19 Mar 1786 (survived childhood)1  
+11. [Willem Wijnant](../heijns/#willem) b. 19 Mar 1786 (survived childhood)1  
 12. Neeltje b. 17 Jun 17871  
 13. Pietertje b. 24 Aug. 17881  
 14. Pieter b. 6 Dec. 17891  
@@ -227,8 +227,9 @@ The family had quite a few infant deaths, quite common in those days. According 
 2. The hand-drawn chart adds four additional children indicated as dying young, who are not found on the family sheet. Days and months are from family fact sheet.  
 
 The hand-drawn chart also notes that the family with 2 children moved to Ter Aar May 15, 1804. Under Willem Wynant Heyns there is a note that he decided to change the name "Heins" to "Heyns"  
-<br>
 
-[Continue to Willem Wijnant](../heijns)
+<hr><br>
+
+[Continue to Willem Wijnant Heijns (1786-1854)](../heijns/#willem)
 
 
